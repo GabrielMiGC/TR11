@@ -5,7 +5,7 @@
 > O quê esse código faz?
 
 O programa funciona em conjunto com um arquivo .h que contem a chamada das funções presentes no .c, chamada para uma função COMP de comparação definida pelo professor e uma struct.  
-O propośito do programa é ordenar os valores inseridos no veotr em ordem crescente. 
+O propośito do programa é ordenar os valores inseridos no vetor em ordem crescente. 
 
 Essa struct contem:
 - Inteiro N (Tamanho do vetor)
